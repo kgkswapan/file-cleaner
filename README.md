@@ -17,5 +17,13 @@ Includes a log generator sub-project for testing purposes.
 # Run file cleaner
 .\filecleaner.ps1
 ```
+
+## Example CSV Format
+```CSV
+DirectoryPath,KeepForDays
+.\Logs,30
+
+```
+
 ## License
 MIT
